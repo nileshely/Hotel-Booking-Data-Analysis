@@ -32,10 +32,12 @@
    - **Reservation Status per Month:**
      - There's variability in reservation counts across different months.
      - Cancellation rates fluctuate, suggesting potential seasonal patterns or external influences impacting cancellations.
+     - ![image](https://github.com/nileshely/Hotel-Booking-Data-Analysis/assets/163812350/709f6c0f-2bc5-4076-8ec3-0e0d2cda6293)
+     - The bar chart highlights that August stands out with the highest volume of successful bookings, indicating fewer cancellations compared to other months. Conversely, it depicts that cancellations are relatively minimal during August, showcasing a notable trend towards successful reservations during that period.
+
    - **ADR per Month:**
      - ADR for canceled reservations varies throughout the year, with peaks and troughs indicating potential seasonal pricing strategies or demand fluctuations.
-     - ![image](https://github.com/nileshely/Hotel-Booking-Data-Analysis/assets/163812350/fb06fa85-6695-4163-92ef-12edcc79baa3)
-     - The bar chart highlights that August stands out with the highest volume of successful bookings, indicating fewer cancellations compared to other months. Conversely, it depicts that cancellations are relatively minimal during August, showcasing a notable trend towards successful reservations during that period.
+     - ![image](https://github.com/nileshely/Hotel-Booking-Data-Analysis/assets/163812350/e25d7857-fa6c-4a82-a51d-585c1d18abd8)
 
 
 **5. Geographical Analysis:**
@@ -56,6 +58,9 @@
    - **ADR Trends for Canceled and Not Canceled Reservations:**
      - ADR trends are analyzed concerning reservation status over time.
      - Understanding ADR fluctuations in relation to cancellation trends could provide insights into revenue management strategies and customer behavior.
+     - ![image](https://github.com/nileshely/Hotel-Booking-Data-Analysis/assets/163812350/c738d62e-c835-4e04-bb57-6690be39861e)
+     - The line plot depicts the average daily rate over time for both canceled and not canceled reservations, showing fluctuations in ADR for each category.
+
 
 **8. Conclusion:**
    The analysis provides valuable insights into hotel reservation trends, cancellation patterns, ADR fluctuations, and the impact of various factors on reservation outcomes. Understanding these trends is crucial for optimizing revenue, managing risk, and enhancing customer satisfaction in the hospitality industry.
