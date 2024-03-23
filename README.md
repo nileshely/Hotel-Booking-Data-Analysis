@@ -46,11 +46,10 @@
 
 --- 
 
-**Recommendations:**
+**Suggestions:**
 1. Implement targeted marketing strategies based on geographical insights to mitigate cancellations.
 2. Utilize market segmentation data to tailor promotional offers and services to different customer segments.
 3. Monitor ADR trends closely, especially in relation to cancellation patterns, to optimize pricing strategies and revenue management.
 4. Invest in predictive analytics models to forecast cancellation rates and optimize inventory management.
 5. Continuously gather feedback from canceled reservations to identify pain points and improve service quality.
 
-**Disclaimer:** This analysis is based on the provided dataset and may require additional contextual information for comprehensive insights.
