@@ -74,3 +74,15 @@
 4. Invest in predictive analytics models to forecast cancellation rates and optimize inventory management.
 5. Continuously gather feedback from canceled reservations to identify pain points and improve service quality.
 
+cancelled_perc = df['is_canceled'].value_counts(normalize=True) * 100
+
+plt.figure(figsize=(5, 10))
+plt.title('Reservation Status Count')
+
+bars = plt.bar(['Not canceled', 'Canceled'], df['is_canceled'].value_counts(), edgecolor='k', width=0.7)
+
+for bar, count, perc in zip(bars, df['is_canceled'].value_counts(), cancelled_perc):
+    plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), f'{count}\n({perc:.1f}%)',
+             ha='center', va='bottom')
+
+plt.show()
